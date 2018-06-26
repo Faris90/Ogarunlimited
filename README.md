@@ -1,3 +1,4 @@
+## Credit to AJS
 Official OgarUnlimited Reborn
 
 This is the lastest official version of OgarUnlimited publically released to the public. 
